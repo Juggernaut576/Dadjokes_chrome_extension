@@ -1,2 +1,2 @@
-# Dadjokes_extension
+# Dadjokes_chrome_extension
 Chrome extension
